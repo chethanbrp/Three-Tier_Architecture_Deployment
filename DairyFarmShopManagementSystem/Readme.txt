@@ -13,6 +13,15 @@ How to run the Dairy Farm Shop Management System Project (DFSMS)
 6. Import dfsms.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/dfsms
+-----------------------------------------------------------------------------------------------------------------
+
+
+NOTE:-
+=====
+For the reference ,
+   PHP:   https://shaonmajumder.medium.com/how-to-install-php-7-4-on-ubuntu-22-04-56a6f312d6ea 
+   MYSQL: https://phoenixnap.com/kb/install-mysql-ubuntu-22-04
+
 
 
 ==================================================================
